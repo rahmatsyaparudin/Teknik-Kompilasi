@@ -1,0 +1,15 @@
+[Project]
+FileName=E:\ccccccccccccccc\a\programParser.dp
+Name=programParser
+MainUnit=E:\ccccccccccccccc\a\parser.pas
+UnitCount=2
+ResFiles=E:\ccccccccccccccc\a\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=E:\ccccccccccccccc\a\parser.pas
+FileTime=1188497517
+[Unit2]
+FileName=E:\ccccccccccccccc\a\scanner.pas
+FileTime=1188497763

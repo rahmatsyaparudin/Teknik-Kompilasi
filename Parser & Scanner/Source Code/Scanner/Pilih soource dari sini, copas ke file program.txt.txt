@@ -1,0 +1,25 @@
+//Contoh sintaks pengurangan
+
+/* Copy dari bawah sini */ 
+programm versuchen;
+var
+a = 10;
+b = 8;
+anfangen
+a := a - b;
+ende.
+
+
+//Contoh sintaks pengurangan
+
+/* Copy dari while-do */ 
+programm iterationen;
+var
+  a = 8;
+  b = 6;
+anfangen
+  wahrend a > b tun
+  anfangen
+    a := a - b;
+  ende;
+ende.

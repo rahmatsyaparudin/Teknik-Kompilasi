@@ -1,0 +1,115 @@
+[App]
+Title=Scanner
+Version=1.0
+EXEName=Scanner - Setup
+Company=tekkom-11
+[Options]
+Dir=c:\tekkom-11\Scanner
+Title=Setup - Scanner
+Language=English
+BGColor=Blue
+[DutchDialogs]
+EULA1=Gebruiksrechtovereenkomst
+EULA2=Lees de volgende gebruiksrechtovereenkomst zorgvuldig door.
+EULA3=Ik ga &akkoord met de voorwaarden van de gebruiksrechtovereenkomst
+EULA4=Ik &ga niet akkoord met de voorwaarden van de gebruiksrechtovereenkomst
+EULA5=2=Vo&lgende >
+Welcome1=Welkom bij Setup Program voor Scanner.
+Welcome2=Setup Program helpt u om Scanner op uw computer te installeren.   Klik op Volgende om door te gaan.
+Welcome3=Annuleren
+Welcome4=Vo&lgende >
+Destination1=Installatiemap
+Destination2=Geef de map op waarin de bestanden wilt opslaan.  Als de map niet bestaat, wordt deze voor u gemaakt.  Klik op Volgende om door te gaan.
+Destination3=&Installatiemap:
+Destination4=Doorgaan
+Destination5=&Wijzigen...
+[EnglishDialogs]
+EULA1=License Agreement
+EULA2=Please read the following license agreement carefully.
+EULA3=I &accept the terms in the license agreement
+EULA4=I &do not accept the terms in the license agreement
+EULA5=&Next >
+Welcome1=Welcome to the Setup Program for Scanner.
+Welcome2=The Setup Program will help install Scanner on your computer.   To continue, click Next.
+Welcome3=Cancel
+Welcome4=&Next >
+Destination1=Location to Save Files
+Destination2=Please enter the folder where you want these files saved.  If the folder does not exist, it will be created for you.   To continue, click Next.
+Destination3=&Save files in folder:
+Destination4=Continue
+Destination5=&Change...
+[FrenchDialogs]
+EULA1=Contrat de licence
+EULA2=Veuillez lire attentivement le contrat de licence suivant.
+EULA3=J'&accepte les termes de ce contrat de licence
+EULA4=Je &n'accepte pas les termes de ce contrat de licence
+EULA5=&Suivant >
+Welcome1=Bienvenue dans le programme d'installation pour Scanner.
+Welcome2=Le programme d'installation vous aidera à installer Scanner sur votre ordinateur.   Pour continuer, cliquez sur Suivant.
+Welcome3=Annuler
+Welcome4=&Suivant >
+Destination1=Emplacement pour enregistrer les fichiers
+Destination2=Veuillez entrer le dossier dans lequel vous souhaitez enregistrer vos fichiers. Si le dossier n'existe pas, il sera créé automatiquement. Pour continuer, cliquez sur Suivant.
+Destination3=&Enregistrer les fichiers dans le dossier:
+Destination4=Continuer
+Destination5=&Modifier...
+[GermanDialogs]
+EULA1=Lizenzvereinbarung
+EULA2=Bitte lesen Sie die folgende Lizenzvereinbarung sorgfältig durch.
+EULA3=Ich &akzeptiere die Bedingungen der Lizenzvereinbarung
+EULA4=Ich &lehne die Bedingungen der Lizenzvereinbarung ab
+EULA5=&Weiter >
+Welcome1=Willkommen beim Setup Program für Scanner.
+Welcome2=Mithilfe des Setup Program können Sie Scanner auf Ihrem Computer installieren.   Klicken Sie auf 'Weiter', um fortzufahren.
+Welcome3=Fortfahren
+Welcome4=&Weiter >
+Destination1=Speicherort für Dateien
+Destination2=Bitte geben Sie den Ordner ein, in dem Sie Ihre Dateien speichern möchten. Wenn dieser Ordner noch nicht vorhanden ist, wird er für Sie erstellt. Klicken Sie auf 'Weiter', um fortzufahren.
+Destination3=&Dateien in Ordner speichern:
+Destination4=Abbrechen
+Destination5=&Ändern...
+[IndonesianDialogs]
+EULA1=Perjanjian Lisensi
+EULA2=Mohon baca perjanjian lisensi berikut dengan cermat.
+EULA3=Saya&menerima semua hal yang ada dalam perjanjian lisensi
+EULA4=Saya&tidak menerima syarat-syarat yang tercantum dalam perjanjian lisensi ini
+EULA5=S&elanjutnya >
+Welcome1=Selamat datang di Program Setup Scanner.
+Welcome2=Program Setup akan membantu proses instalasi Scanner di komputer anda. Untuk terus, klik Selanjutnya.
+Welcome3=Pembatalan
+Welcome4=S&elanjutnya >
+Destination1=Lokasi untuk menyimpan File
+Destination2=Mohon masukkan folder di mana anda ingin file anda disimpan. Jika folder tidak ada, akan dibuat untuk anda. Untuk terus, klik Selanjutnya.
+Destination3=S&impan file di folder:
+Destination4=Lanjutkan
+Destination5=&Mengubah...
+[SpanishDialogs]
+EULA1=Contrato de licencia
+EULA2=Lea cuidadosamente el contrato de licencia siguiente.
+EULA3=A&cepto los términos del contrato de licencia
+EULA4=&No acepto los términos del contrato de licencia
+EULA5=&Siguiente >
+Welcome1=Bienvenido a Setup Program para Scanner.
+Welcome2=Setup Program le ayudará a instalar Scanner en su equipo.   Para continuar, haga clic en Siguiente.
+Welcome3=Cancelar
+Welcome4=&Siguiente >
+Destination1=Ubicación para guardar archivos
+Destination2=Introduzca la carpeta en la que desee guardar los archivos.  Si la carpeta no existe, se procederá a su creación.  Para continuar, haga clic en Siguiente.
+Destination3=&Guardar archivos en carpeta:
+Destination4=&Cambiar...
+Destination5=&Change...
+[Dialogs]
+Destination=True
+Welcome=True
+EULA=True
+[Groups]
+Count=1
+Group0=Program Files
+[Program Files]
+Dir=<INSTALLDIR>\
+Files=4
+File0=E:\ccccccccccccccc\scaner\keyword.txt
+File1=E:\ccccccccccccccc\scaner\Pilih soource dari sini, copas ke file program.txt.txt
+File2=E:\ccccccccccccccc\scaner\program.txt
+File3=E:\ccccccccccccccc\scaner\Project.exe
+Cabinet=Setup.1
